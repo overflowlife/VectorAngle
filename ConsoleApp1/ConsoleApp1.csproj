@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>vectorangle</AssemblyName>
+    <RootNamespace>VectorAngle</RootNamespace>
+    <StartupObject>VectorAngle.Program</StartupObject>
+    <ApplicationIcon>suddenattack.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
